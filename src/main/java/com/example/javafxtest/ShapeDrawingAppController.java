@@ -175,7 +175,6 @@ public class ShapeDrawingAppController {
         saveState();
         initializeCanvas();
     }
-
     private void resizeCanvas() {
         TextInputDialog dialog = new TextInputDialog(String.valueOf(canvas.getWidth()));
         dialog.setTitle("Resize Canvas");
