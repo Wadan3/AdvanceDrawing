@@ -109,6 +109,10 @@ src/
 
 ---
 
+## 📷 Screenshot
+
+![AdvanceDrawing](screenshots/main-window.png)
+
 ## 🎓 Academic Project
 
 This project was developed as a university project and demonstrates practical application of Java GUI development concepts using JavaFX.
