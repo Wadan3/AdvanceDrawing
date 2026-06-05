@@ -1,4 +1,5 @@
 # 🎨 AdvanceDrawing
+![Java CI](https://github.com/Wadan3/AdvanceDrawing/actions/workflows/maven.yml/badge.svg)
 
 A modern JavaFX drawing application featuring dynamic canvas resizing, customizable brush tools, dark mode support, and image export capabilities.
 
