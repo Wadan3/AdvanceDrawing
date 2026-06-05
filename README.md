@@ -33,13 +33,7 @@ This project was developed as part of the Computer Engineering curriculum at Ami
 ---
 
 ## 📷 Screenshot
-
-> Add your screenshot here
-
-```md
-![Application Screenshot](screenshots/main-window.png)
-```
-
+![AdvanceDrawing](screenshots/main-window.png)
 ---
 
 ## 🏗 Technologies Used
@@ -108,10 +102,6 @@ src/
 * Maven Project Management
 
 ---
-
-## 📷 Screenshot
-
-![AdvanceDrawing](screenshots/main-window.png)
 
 ## 🎓 Academic Project
 
