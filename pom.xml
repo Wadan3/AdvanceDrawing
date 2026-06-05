@@ -73,7 +73,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.javafxtest/com.example.javafxtest.HelloApplication
+                                 com.example.javafxtest/com.example.javafxtest.ShapeDrawingApp
                             </mainClass>
                         </configuration>
                     </execution>
