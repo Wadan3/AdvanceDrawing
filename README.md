@@ -4,7 +4,6 @@
 A modern JavaFX drawing application featuring dynamic canvas resizing, customizable brush tools, dark mode support, and image export capabilities.
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![JavaFX](https://img.shields.io/badge/JavaFX-22-blue)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
